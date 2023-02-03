@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/OrganogramaEmpresaReact/static/css/main.4cebaa74.css",
-    "main.js": "/OrganogramaEmpresaReact/static/js/main.140edcf9.js",
+    "main.js": "/OrganogramaEmpresaReact/static/js/main.ad99c39c.js",
     "index.html": "/OrganogramaEmpresaReact/index.html",
     "main.4cebaa74.css.map": "/OrganogramaEmpresaReact/static/css/main.4cebaa74.css.map",
-    "main.140edcf9.js.map": "/OrganogramaEmpresaReact/static/js/main.140edcf9.js.map"
+    "main.ad99c39c.js.map": "/OrganogramaEmpresaReact/static/js/main.ad99c39c.js.map"
   },
   "entrypoints": [
     "static/css/main.4cebaa74.css",
-    "static/js/main.140edcf9.js"
+    "static/js/main.ad99c39c.js"
   ]
 }
